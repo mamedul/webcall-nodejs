@@ -49,11 +49,14 @@ Note: Must use two window or two different device for see remote video
 
 ##### Developer
 
-[https://mamedul.github.io](MAMEDUL ISLAM)
-
 <div style="border: 1px solid #cac; background-color: #ffffff; border-radius: 8px; padding: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    ![MAMEDUL ISLAM](https://avatars.githubusercontent.com/u/64060121?v=4)
+
+![MAMEDUL ISLAM](https://avatars.githubusercontent.com/u/64060121?v=4)
+
+![MAMEDUL ISLAM](https://github.com/mamedul/mamedul.github.io/blob/61a9d932e0cdf991ad34325936ac53ce6343ec15/assets/images/Mamedul.jpg)
+	
 </div>
+[https://mamedul.github.io](https://mamedul.github.io)
 
 ##### Others
 
