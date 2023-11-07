@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#videos-container {
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+}
+
+video {
+  width: 45%;
+  height: auto;
+  border: 1px solid #ccc;
+}
